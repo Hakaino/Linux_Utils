@@ -11,4 +11,5 @@ mv ~/.bashrc ~/.bashrc_backup
 wget https://raw.githubusercontent.com/Hakaino/bashrc/refs/heads/main/.bashrc -O ~/.bashrc 
 ```
 
-![dark](./imgs/bashrc_dark.png) ![light](./imgs/bashrc_light.png)
+| ![dark](./imgs/bashrc_dark.png) | ![light](./imgs/bashrc_light.png) |
+|:---------------------:|:----------------------:|
